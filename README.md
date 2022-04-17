@@ -8,3 +8,8 @@
 - 📫 How to reach me: me@mause.me, [@Mause_me](https://twitter.com/mause_me) on Twitter, or [@Mause@cloudisland.nz](https://cloudisland.nz/web/accounts/11981) on mastodon
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mause&layout=compact&show_icons=true&theme=onedark&count_private=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Mause&theme=onedark&show_icons=true&count_private=true" />
+</p>
