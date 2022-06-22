@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Media](https://github.com/Mause/media), and a couple of related projects
+- 🔭 I’m currently working on [duckdb_engine](https://github.com/Mause/duckdb_engine), and a couple of related projects
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about FastAPI, I've been helping out with issues 🙂
+<!--- 💬 Ask me about FastAPI, I've been helping out with issues 🙂-->
 - 📫 How to reach me: me@mause.me, [@Mause_me](https://twitter.com/mause_me) on Twitter, or [@Mause@cloudisland.nz](https://cloudisland.nz/web/accounts/11981) on mastodon
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I live in Western Australia!
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mause&layout=compact&show_icons=true&theme=onedark&count_private=true" />
