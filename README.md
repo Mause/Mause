@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about DuckDB, I've been helping out with issues 🙂
+- 💬 Ask me about [DuckDB](https://duckdb.org), I've been helping out with issues 🙂
 - 📫 How to reach me:
   - me@mause.me
-  - @Mause#5503 on Discord
+  - [@Mause](https://discord.com/users/153030101171175425) on Discord
   - [@Mause_me](https://twitter.com/mause_me) on Twitter
   - or [@Mause@cloudisland.nz](https://cloudisland.nz/web/accounts/11981) on mastodon
 - 😄 Pronouns: she/her
