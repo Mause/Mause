@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [duckdb_engine](https://github.com/Mause/duckdb_engine), [DuckDB](https://duckdb.org), and a couple of related projects
+- ☕ If you appreciate my work on these projects, feel free to buy me a coffee: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3QHWP)
 - 🌱 I’m currently learning Rust
 
 - 📫 How to reach me:
